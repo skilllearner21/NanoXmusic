@@ -1,10 +1,10 @@
 <h2 align="center">
     ──「 ⌜ɴᴀɴᴏ〆ᴍᴜꜱɪᴄ⌟ 」──
 </h2>                                      
+ 
 <p align="center">
-  <img src="https://graph.org/file/84b9e895a0de32de14bdb.jpg"> 
-</p>
-
+<img src="https://graph.org/file/84b9e895a0de32de14bdb.jpg"> 
+</p>.                                                                                                                                                                                                                                                                                                           
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
