@@ -1,9 +1,8 @@
 <h2 align="center">
     ──「 ⌜ɴᴀɴᴏ〆ᴍᴜꜱɪᴄ⌟ 」──
-</h2>
-
+</h2>                                      
 <p align="center">
-  <img src="https://graph.org/file/84b9e895a0de32de14bdb.jpg">
+  <img src="https://graph.org/file/84b9e895a0de32de14bdb.jpg"> 
 </p>
 
 <h3 align="center">
@@ -64,8 +63,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://github.com/pyrogram/pyrogram"> <img src="https://img.shields.io/badge/Pyrogram-black?style=for-the-badge&logo=github" alt="Pyrogram" /> </a>
 <a href="https://github.com/pytgcalls/pytgcalls"> <img src="https://img.shields.io/badge/PyTgCalls-black?style=for-the-badge&logo=github" alt="Pytgcalls" /> </a>
 <a href="https://github.com/Callsmusic"> <img src="https://img.shields.io/badge/CallsMusic-black?style=for-the-badge&logo=github" alt="Callsmusic" /> </a>
-<a href="https://github.com/NotReallyShikhar"> <img src="https://img.shields.io/badge/Shikhar-black?style=for-the-badge&logo=github" alt="Shikhar" /> </a>
 <a href="https://github.com/TheHamkerCat"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="TheHamkerCat" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [Mr-DANISH](https://t.me/Mr_DaNiSh_kHaN21) /> </a>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴍʀ ᴅᴀɴɪsʜ](https://instagram.com/official_khan_danish21?igshid=ZDdkNTZiNTM=) /> </a>
