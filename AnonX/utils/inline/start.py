@@ -39,7 +39,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
                 text="🍂ᴄᴏᴍᴍᴀɴᴅs🍂", callback_data="settings_back_helper"
             ),
             InlineKeyboardButton(
-                text="🥀 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🥀", user_id=OWNER
+                text="🥀 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🥀", user_id"5004802508" 
             )
         ],
         [
@@ -47,7 +47,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
                 text="💔sᴜᴩᴩᴏʀᴛ💔", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="✨ sᴏᴜʀᴄᴇ ✨", url=f"https://github.com/itsneerja/NidhiMusic"
+                text="✨ ᴍʏ ғᴇᴇʟɪɴɢs ✨", url=f"https://instagram.com/official_khan_danish21?igshid=ZDdkNTZiNTM="
             )
         ],
      ]
